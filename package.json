@@ -1,0 +1,29 @@
+{
+  "name": "nodetuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippe-richard/nodetuto.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial",
+    "github",
+    "mocha"
+  ],
+  "author": "philippe richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippe-richard/nodetuto/issues"
+  },
+  "homepage": "https://github.com/philippe-richard/nodetuto#readme"
+}
